@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guiniederle
-- 👀 I’m interested in PHP
+- 👀 I’m interested in PHP and how I can make the things better
 - 🌱 I’m currently learning Python and NodeJS
 
 <!---
